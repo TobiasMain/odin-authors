@@ -1,0 +1,20 @@
+* {
+  font-family: serif;
+  background-color: #121212;
+  color: #eeeeee;
+}
+
+em {
+  color: #ffc4c4;
+}
+
+.title {
+  text-align: center;
+  font-size: 72px;
+}
+
+.index-directory {
+  text-align: center;
+  font-size: 32px;
+  list-style-type: none;
+}
