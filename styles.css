@@ -11,10 +11,20 @@ em {
 .title {
   text-align: center;
   font-size: 72px;
+  margin-bottom: 72px;
 }
 
 .index-directory {
   text-align: center;
-  font-size: 32px;
+
   list-style-type: none;
+}
+
+.index-directory li a button{
+  color: #121212;
+  background-color: #eeeeee;
+  margin: 8px;  
+  font-size: 32px;
+  border: none;
+  border-radius: 8px;
 }
